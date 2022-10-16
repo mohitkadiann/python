@@ -64,3 +64,14 @@ b=[10,20]
 c=a
 print(a is c) #returns true if both the variables are the same object pointing to a same memory location
 print(b is a) ##it will return false because only object is same but the memory location is different here
+
+print(a==b) #it will only check only for the object value
+print(a is not b) #returns true if both variables are not the same object
+print(a is not c) 
+print(a!=b) #it returns false as a is equal to b
+
+#6..membership operator
+
+a=[1,2,3,4,50]
+print(2 in a) #in->returns true if the sequence is present in the object
+print(3 not in a) #not in-> returns true if the sequence is NOT present in the object
