@@ -1,6 +1,6 @@
 #BITWISE OPERATORS
 #They are used to compare binary numbers
-# $ ->and->both bits are one then sets to 1
+# & ->and->both bits are one then sets to 1
 # | ->or-> if atleast one bit is 1 then it sets to 1
 # ^ ->XOR-> if one and only one of the two bits is  then it sets to 1
 # ~ ->NOT-> it inverts the results
