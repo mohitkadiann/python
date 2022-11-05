@@ -15,7 +15,7 @@ print(x.upper()) # all letters in uppercase
 print(x.lower()) # all letters in lowercase
 
 splittedText=x.split()
-print(splittedText[2])
+print(splittedText[2]) #it separates the words of a sentance
 
 #replace a string with another one
 
